@@ -1,0 +1,10 @@
+Job Search Server
+
+
+Key:	eb76bf3ccebe622919a1d2defd41f7dc
+Secret:	62fb4b5d3de449fa
+Project type:	desktop
+Callback URL:	(none)
+Auth type:	OAuth 1.0
+API Usage:	1-10
+Issued:	March 10, 2020 15:22
