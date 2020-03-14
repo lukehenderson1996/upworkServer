@@ -1,0 +1,30 @@
+FIRST API APP
+Job Search Server
+Project description:	A server to search for and filter through job opportunities for the user to look through less
+Key:	eb76bf3ccebe622919a1d2defd41f7dc
+Secret:	62fb4b5d3de449fa
+Project type:	desktop
+Callback URL:	(none)
+Auth type:	OAuth 1.0
+API Usage:	1-10
+Issued:	March 10, 2020 15:22
+Status:	Disabled
+Permissions:	- Access your basic info
+- Read and search profiles of contractors and jobs, and get lists of public metadata
+  
+  
+SECOND API APP
+Job Search Server
+Project description:	-Used for searching and filtering through new job postings -for internal use less
+Key:	6cc64b61b06a6d9446d17daec5aef053
+Secret:	b923e71b020a22ab
+Project type:	desktop
+Callback URL:	(none)
+Auth type:	OAuth 1.0
+API Usage:	11-100
+Issued:	March 13, 2020 20:08
+Status:	Disabled
+Permissions:	- Access your basic info
+- View your job offers
+- Read and search profiles of contractors and jobs, and get lists of public metadata
+

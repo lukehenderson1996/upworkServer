@@ -1,0 +1,2 @@
+#try this/need to have git installed
+sudo easy_install git+git://github.com/upwork/python-upwork.git@l#egg=upwork
